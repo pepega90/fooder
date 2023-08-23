@@ -1,4 +1,8 @@
-# Shopping
+# Fooder
+
+Simple shopping cart made with Elixir and Phoenix Framework (LiveView)
+
+<img src="https://github.com/pepega90/fooder/blob/main/preview.gif" />
 
 To start your Phoenix server:
 
